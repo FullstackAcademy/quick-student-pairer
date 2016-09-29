@@ -1,0 +1,16 @@
+{
+  "name": "student-pairer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pair-students.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.2",
+    "promisify-node": "^0.4.0"
+  }
+}
