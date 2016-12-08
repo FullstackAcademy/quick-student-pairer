@@ -2,7 +2,7 @@
 
 A small script that reads a list of students and and writes a new random pairing list. 
 
-## :confounded: For when LearnDot is broke :grimacing:
+## :confounded: For when our learning platform's pairing algorithm is broke :grimacing:
 
 ## Instructions
 1) Enter student names into students.txt, seperated by new lines
